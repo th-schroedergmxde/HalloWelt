@@ -1,0 +1,64 @@
+DUP 25/Sep/2014 22:39:12 File Access Error C:\ProgramData\Avira\AntiVir Desktop\EVENTDB\gavid2.dat
+DUP 25/Sep/2014 22:39:12 File Access Error C:\ProgramData\Avira\AntiVir Desktop\EVENTDB\gavid2.dat_1
+DUP 25/Sep/2014 22:39:12 File Access Error C:\ProgramData\Avira\AntiVir Desktop\EVENTDB\gavid2.dat_2
+DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_0
+DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_1
+DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Index
+DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Cache\data_0
+DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\databases\Databases.db
+DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\MANIFEST-000004
+DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension State\LOG
+DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension State\MANIFEST-000230
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\LOG
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\MANIFEST-000255
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_0
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_1
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_2
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_2
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_3
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_3
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\index
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Cache\index
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.de_0.indexeddb.leveldb\LOG
+DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.de_0.indexeddb.leveldb\MANIFEST-000583
+DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\pafkbggdmjlpgkdkcbjmhmfcdpncadgh\LOG
+DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\pafkbggdmjlpgkdkcbjmhmfcdpncadgh\MANIFEST-000208
+DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\https_www.facebook.com_0.localstorage
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\https_www.google.de_0.localstorage
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_imagesrv.adition.com_0.localstorage
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_lastminute.weg.de_0.localstorage
+DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_ssl.xplosion.de_0.localstorage
+DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_ssl.xplosion.de_0.localstorage-journal
+DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.n-tv.de_0.localstorage
+DUP 25/Sep/2014 22:39:39 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.weg.de_0.localstorage
+DUP 25/Sep/2014 22:39:39 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.weg.de_0.localstorage-journal
+DUP 25/Sep/2014 22:39:39 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.wetteronline.de_0.localstorage
+DUP 25/Sep/2014 22:39:39 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.wetteronline.de_0.localstorage-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Session Storage\LOG
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Session Storage\MANIFEST-000460
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Sync Data Backup\SyncData.sqlite3
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Sync Data Backup\SyncData.sqlite3-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Current Session
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Favicons-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\History-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Login Data
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Network Action Predictor-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Origin Bound Certs
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\QuotaManager
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\QuotaManager-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Shortcuts
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Shortcuts-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Top Sites
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Top Sites-journal
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Visited Links
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Web Data
+DUP 25/Sep/2014 22:39:43 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Web Data-journal
+DUP 25/Sep/2014 22:39:44 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\index
+DUP 25/Sep/2014 22:39:44 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Safe Browsing Cookies
+DUP 25/Sep/2014 22:39:44 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Safe Browsing Cookies-journal
+DUP 25/Sep/2014 22:41:06 File Access Error C:\Users\TomFFM\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+DUP 25/Sep/2014 22:41:06 File Access Error C:\Users\TomFFM\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+DUP 25/Sep/2014 22:41:06 File Access Error C:\Users\TomFFM\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+DUP 25/Sep/2014 22:41:07 File Access Error C:\Users\TomFFM\AppData\Local\Power2Go\CLML\CLDB.db
