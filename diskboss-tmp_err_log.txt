@@ -5,30 +5,20 @@ DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\
 DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_1
 DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Index
 DUP 25/Sep/2014 22:39:17 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Cache\data_0
-DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\databases\Databases.db
-DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\MANIFEST-000004
-DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension State\LOG
-DUP 25/Sep/2014 22:39:33 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Extension State\MANIFEST-000230
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\LOG
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\MANIFEST-000255
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_0
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_1
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_2
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_2
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_3
 DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_3
 DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\GPUCache\index
 DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Cache\index
 DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.de_0.indexeddb.leveldb\LOG
-DUP 25/Sep/2014 22:39:35 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.de_0.indexeddb.leveldb\MANIFEST-000583
+DUP 25/Sep/2014 22:39:35 File Access Error C:\UsehhsdhhshshshshshhhhhhpData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.ANIFEST-000583  Änderung-1
 DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\pafkbggdmjlpgkdkcbjmhmfcdpncadgh\LOG
 DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\pafkbggdmjlpgkdkcbjmhmfcdpncadgh\MANIFEST-000208
 DUP 25/Sep/2014 22:39:36 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\chrome-extension_pafkbggdmjlpgkdkcbjmhmfcdpncadgh_0.localstorage
 DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\https_www.facebook.com_0.localstorage
-DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\https_www.google.de_0.localstorage
-DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_imagesrv.adition.com_0.localstorage
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\https_www.google.de_0.locaewewewewe Änderun-2
+DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_imagesrv.adition.com_0.localstorage Änderung-2
 DUP 25/Sep/2014 22:39:37 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_lastminute.weg.de_0.localstorage
 DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_ssl.xplosion.de_0.localstorage
+Neue-ZEILE-01
 DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_ssl.xplosion.de_0.localstorage-journal
 DUP 25/Sep/2014 22:39:38 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.n-tv.de_0.localstorage
 DUP 25/Sep/2014 22:39:39 File Access Error C:\Users\TomFFM\AppData\Local\Google\Chrome\User Data\Default\Local Storage\http_www.weg.de_0.localstorage
